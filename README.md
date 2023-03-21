@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any Java applications to learn new things
 - 📫 To reach me, you can mail me at santialex.f@gmail.com
 
+[![Xela-fdez's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Xela-fdez's GitHub stats](https://github-readme-stats.vercel.app/api?username=xela-fdez)](https://github.com/xela-fdez/github-readme-stats)
 
 <!---
